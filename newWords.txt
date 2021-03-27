@@ -1,0 +1,161 @@
+{
+text: 'Напишите слово "отказываться от" на англ.,
+right: 'abandon',
+help: 'abandon'
+},{
+text: 'Напишите слово "абстрактный" на англ.,
+right: 'abstract',
+help: 'abstract'
+},{
+text: 'Напишите слово "академия" на англ.,
+right: 'academy',
+help: 'academy'
+},{
+text: 'Напишите слово "доступ" на англ.,
+right: 'access',
+help: 'access'
+},{
+text: 'Напишите слово "разместить" на англ.,
+right: 'accommodate',
+help: 'accommodate'
+},{
+text: 'Напишите слово "сопровождать" на англ.,
+right: 'accompany',
+help: 'accompany'
+},{
+text: 'Напишите слово "накапливаться" на англ.,
+right: 'accumulate',
+help: 'accumulate'
+},{
+text: 'Напишите слово "точный" на англ.,
+right: 'accurate',
+help: 'accurate'
+},{
+text: 'Напишите слово "достигать" на англ.,
+right: 'achieve',
+help: 'achieve'
+},{
+text: 'Напишите слово "признавать" на англ.,
+right: 'acknowledge',
+help: 'acknowledge'
+},{
+text: 'Напишите слово "приобретать" на англ.,
+right: 'acquire',
+help: 'acquire'
+},{
+text: 'Напишите слово "адаптировать" на англ.,
+right: 'adapt',
+help: 'adapt'
+},{
+text: 'Напишите слово "адекватный" на англ.,
+right: 'adequate',
+help: 'adequate'
+},{
+text: 'Напишите слово "прилегающий" на англ.,
+right: 'adjacent',
+help: 'adjacent'
+},{
+text: 'Напишите слово "регулировать" на англ.,
+right: 'adjust',
+help: 'adjust'
+},{
+text: 'Напишите слово "администрировать" на англ.,
+right: 'administrate',
+help: 'administrate'
+},{
+text: 'Напишите слово "для взрослых" на англ.,
+right: 'adult',
+help: 'adult'
+},{
+text: 'Напишите слово "адвокат" на англ.,
+right: 'advocate',
+help: 'advocate'
+},{
+text: 'Напишите слово "влиять" на англ.,
+right: 'affect',
+help: 'affect'
+},{
+text: 'Напишите слово "совокупный" на англ.,
+right: 'aggregate',
+help: 'aggregate'
+},{
+text: 'Напишите слово "помощь" на англ.,
+right: 'aid',
+help: 'aid'
+},{
+text: 'Напишите слово "хотя" на англ.,
+right: 'albeit',
+help: 'albeit'
+},{
+text: 'Напишите слово "выделять" на англ.,
+right: 'allocate',
+help: 'allocate'
+},{
+text: 'Напишите слово "изменять" на англ.,
+right: 'alter',
+help: 'alter'
+},{
+text: 'Напишите слово "альтернатива" на англ.,
+right: 'alternative',
+help: 'alternative'
+},{
+text: 'Напишите слово "двусмысленный" на англ.,
+right: 'ambiguous',
+help: 'ambiguous'
+},{
+text: 'Напишите слово "изменить" на англ.,
+right: 'amend',
+help: 'amend'
+},{
+text: 'Напишите слово "аналогия" на англ.,
+right: 'analogy',
+help: 'analogy'
+},{
+text: 'Напишите слово "анализировать" на англ.,
+right: 'analyse',
+help: 'analyse'
+},{
+text: 'Напишите слово "годовой" на англ.,
+right: 'annual',
+help: 'annual'
+},{
+text: 'Напишите слово "предвосхищать" на англ.,
+right: 'anticipate',
+help: 'anticipate'
+},{
+text: 'Напишите слово "видимый" на англ.,
+right: 'apparent',
+help: 'apparent'
+},{
+text: 'Напишите слово "добавлять" на англ.,
+right: 'append',
+help: 'append'
+},{
+text: 'Напишите слово "ценить" на англ.,
+right: 'appreciate',
+help: 'appreciate'
+},{
+text: 'Напишите слово "подход" на англ.,
+right: 'approach',
+help: 'approach'
+},{
+text: 'Напишите слово "соответствующий" на англ.,
+right: 'appropriate',
+help: 'appropriate'
+},{
+text: 'Напишите слово "приблизительный" на англ.,
+right: 'approximate',
+help: 'approximate'
+},{
+text: 'Напишите слово "произвольный" на англ.,
+right: 'arbitrary',
+help: 'arbitrary'
+},{
+text: 'Напишите слово "площадь" на англ.,
+right: 'area',
+help: 'area'
+},{
+text: 'Напишите слово "аспект" на англ.,
+right: 'aspect',
+help: 'aspect'
+},
